@@ -1,0 +1,9 @@
+{
+  "name": "WeatherScript",
+  "version": "1.0.0",
+  "description": "A script to fetch weather for polybar",
+  "main": "index.js",
+  "repository": "https://github.com/aleangel1212/WeatherScript.git",
+  "author": "Alessandro Vecchi",
+  "license": "MIT"
+}
